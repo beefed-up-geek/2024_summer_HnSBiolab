@@ -270,7 +270,7 @@
 
 
 <div align='center'>
-  <img src='https://user-images.githubusercontent.com/97580782/177033692-1fc80c04-5c8a-48d1-b76f-25eb52b5f5b4.png' width='800px'>
+  <img src='https://raw.githubusercontent.com/beefed-up-geek/hns_readme_images/main/images/architecture.png' width='800px'>
 </div>
 
 <br>
